@@ -1,0 +1,55 @@
+body {
+    background-color: rgb(253, 251, 251);
+}
+
+header {
+    left: 0;
+    position: fixed;
+    top: 0;
+    right: 0;
+    background-color: #022C16;
+    z-index: 1;
+    color: #5FD149;
+    margin: 0;
+}
+
+h1 {
+    display: inline-block;
+    padding: 100px;    
+}
+
+#titulo {
+    display: inline;
+}
+
+#conteudo {
+    margin-left: 300px;
+    margin-top: 50px;
+    display: flex;
+}
+
+#minha_foto {
+    top: 90px;
+    position: absolute;
+    width: 300px;
+    height: 200px;
+}
+
+main {
+    display: flex;
+}
+
+.lado-direito {
+    margin-left: 10px;
+    border: black 1px solid;
+    padding: 5px;
+}
+
+.lado-esquerdo {
+    border: black 1px solid;
+    padding: 5px;
+}
+
+footer {
+    margin-top: 10px;
+}

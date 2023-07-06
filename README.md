@@ -1,2 +1,1 @@
-# lessons-learned
-primeiro projeto html css
+Nesse projeto colocarei em pratica o que aprendi nas primeiras aulas de html e css
